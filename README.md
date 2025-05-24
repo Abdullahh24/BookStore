@@ -1,6 +1,7 @@
 A simple Book Store web application built with Laravel and Bootstrap. This project allows users to manage a collection of books, including features for listing, searching, creating, updating, viewing, and deleting books. The UI is styled with Bootstrap 5 for a modern and responsive experience.
-
-[![Book Store Laravel Demo][Screenshot 2025-05-21 134507](https://github.com/user-attachments/assets/16cfda42-3912-431c-a385-d5af7f916893)](https://www.youtube.com/watch?v=aJPE8G61jjg)
+Here is demo video
+(https://www.youtube.com/watch?v=aJPE8G61jjg)
+[Screenshot 2025-05-21 134507](https://github.com/user-attachments/assets/16cfda42-3912-431c-a385-d5af7f916893)
 
 Features
 List all books with pagination
