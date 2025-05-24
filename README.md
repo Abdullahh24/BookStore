@@ -2,8 +2,7 @@ A simple Book Store web application built with Laravel and Bootstrap. This proje
 
 Here is demo video https://youtu.be/aJPE8G61jjg
 
-
-
+![Screenshot 2025-05-21 134507](https://github.com/user-attachments/assets/16cfda42-3912-431c-a385-d5af7f916893)
 
 
 
